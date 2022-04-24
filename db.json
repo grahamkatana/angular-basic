@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Take car for service",
+      "day": "May 5th , 12:00 PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Upgrade server",
+      "day": "May 7th , 12:00 PM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meet potential client",
+      "day": "May 15th , 12:00 PM",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Buy groceries",
+      "day": "May 5th , 9:00 AM",
+      "reminder": true
+    }
+  ]
+}
